@@ -1,0 +1,8 @@
+# HTID:16800887: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:16800887:
+ErrorDocument 404 /404.php
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} ^your_curent_host [NC] 
+RewriteCond %{HTTPS} off 
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
