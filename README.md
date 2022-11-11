@@ -1,5 +1,5 @@
 # PHP-TOKEN-STEALER
-This basically stores some data and helps to exploit XSS (Cross-Site-Scripting), Auth Bypass, Hos-Header-Injection, and these kinds of things.
+It's basically stores some data and helps to exploit XSS (Cross-Site-Scripting), Auth Bypass, Host-Header-Injection and these kinds of attacks.
 ```
 * GET URL
 * Reffer
