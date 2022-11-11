@@ -1,5 +1,5 @@
 # PHP-TOKEN-STEALER
-This is basically store some data and help to exploit XSS (Cross-Site-Scripting), Auth Bypass, Hos-Header-Injection and this kind of things. Default protocol in http. 
+This basically stores some data and helps to exploit XSS (Cross-Site-Scripting), Auth Bypass, Hos-Header-Injection, and these kinds of things.
 ```
 * GET URL
 * Reffer
@@ -16,4 +16,4 @@ Create a folder named "reports"
 Modify the 404.php and index.php at line 19 "$chost = "http://your_current_host/";"
 ```
 # Note:
-The author accepts no responsibility for any kind of misuse. Happy Hacking :) 
+The author accepts no responsibility for any kind of misuse. Happy Hacking :) 
