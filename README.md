@@ -16,4 +16,4 @@ Create a folder named "reports"
 Modify the 404.php and index.php at line 19 "$chost = "http://your_current_host/";"
 ```
 # Note:
-The author accepts no responsibility for any kind of misuse. Happy Hacking :) 
+The author accepts no responsibility for any kind of abuse. Happy Hacking :) 
